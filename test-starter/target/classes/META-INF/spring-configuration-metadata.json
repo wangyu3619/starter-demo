@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "hello",
+      "type": "properteis.HelloServiceProperteis",
+      "sourceType": "properteis.HelloServiceProperteis"
+    }
+  ],
+  "properties": [
+    {
+      "name": "hello.msg",
+      "type": "java.lang.String",
+      "sourceType": "properteis.HelloServiceProperteis"
+    }
+  ],
+  "hints": []
+}
